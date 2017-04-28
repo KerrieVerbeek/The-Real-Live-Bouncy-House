@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #3399ff;
+}
+
+.title {
+	color: #ff4da6; 
+	background-color: #00ffff; 
+	padding-top: 1em;
+	padding-bottom: 1em; 
+	text-align: center; 
+	font-family: 'Shrikhand', cursive;
+	font-size: 4em;
+}
+
+#myCanvas {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	border-width: 2px;
+	border-color: pink;
+	background-color: white;
+}
+
+#myCanvasDiv {
+	text-align: center;
+}
+
+#menuBar {
+	background-color: transparent;
+	font-family: 'Shrikhand', cursive;
+	color: black;
+	padding-left: 1.2em;
+	padding-right: 1.2em;
+	text-align: center;
+	font-size: 2em;
+	padding-bottom: 2em;
+}
+
+.menuItem {
+	font-family: 'Shrikhand', cursive;
+	color: #00ffff;
+	font-size: 1.2em;
+	background-color: transparent;
+	border-color: transparent;
+	text-decoration: underline;
+}
+
